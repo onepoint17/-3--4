@@ -70,12 +70,12 @@ img {
 }
 
 .brz {
- display: inline-block;
- transition: all .3s ease 0s;
- text-decoration: none;
+ display:inline-block;
+ transition:all .3s ease 0s;
+ text-decoration:none;
 }
 
 .brz:hover {
- cursor: pointer;
- transform: scale(1.2);
+ cursor:pointer;
+ transform:scale(1.2);
 }
