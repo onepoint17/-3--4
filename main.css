@@ -45,13 +45,14 @@ h2 {
  text-decoration: underline;
 }
 
-body { /* スタイル適用先としてbodyタグを指定するセレクタ */
- display: flex; /* 画面全体の配置を調整するための設定 */
- justify-content: center; /* コンテンツを中央に配置 */
- padding: 0px 10px; /* 画面の上下に 0px の余白、左右に10pxの余白を設定 */
+body {
+ display: flex;
+ justify-content: center;
+ padding: 0px 10px; 
 }
-.container { /* スタイル適用先としてcontainerクラスを指定するセレクタ */
- max-width: 768px; /* コンテンツの最大幅を768pxに制限 */
- width: 100%; /* コンテンツが幅いっぱいに広がるように設定 */
- margin: 0 auto; /* コンテンツを中央に配置 */
+
+.container { 
+ max-width: 750px;
+ width: 95%;
+ margin: 0 auto;
 }
