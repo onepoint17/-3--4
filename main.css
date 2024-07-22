@@ -1,3 +1,7 @@
+html {
+ background-color:#fffaf0;
+}
+
 body { /* スタイル適用先としてbodyタグを指定するセレクタ */
  display: flex; /* 画面全体の配置を調整するための設定 */
  justify-content: center; /* コンテンツを中央に配置 */
@@ -34,8 +38,9 @@ body {
  margin: 0 auto;
 }
 
-nsx {
+.nsx {
   font-family: "Dela Gothic One", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
+
