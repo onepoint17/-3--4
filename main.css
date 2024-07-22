@@ -68,10 +68,3 @@ img {
 .nd [
  color:#0071c5;
 }
-
-
-.brz:hover {
- cursor:pointer;
- transform:scale(1.2);
-}
-
