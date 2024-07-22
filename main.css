@@ -3,7 +3,7 @@ body { /* スタイル適用先としてbodyタグを指定するセレクタ */
  justify-content: center; /* コンテンツを中央に配置 */
  padding: 0px 10px; /* 画面の上下に 0px の余白、左右に10pxの余白を設定 */
  margin: 0;
-   width: 100vw;
+   width: 90vw;
    height: 100vh;
    background-image: 
      linear-gradient(140deg, 
