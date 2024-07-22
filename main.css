@@ -37,6 +37,10 @@ body {
  padding: 0px 5px; 
 }
 
+img {
+ border-radius: 15px;
+}
+
 .container { 
  max-width: 800px;
  width: 100%;
