@@ -44,3 +44,23 @@ h2 {
  font-size: 2rem;
  text-decoration: underline;
 }
+
+.ingredients {
+ font-weight: normal;
+ font-size: 2rem;
+ padding-left: 10px; /* 要素内側の左部に 10px の余白 */
+ border-left: 15px solid; /* 要素境界の左端に幅 20px の実線 */
+ border-bottom: 4px solid; /* 要素境界の下端に幅 4px の実線 */
+}
+
+.directions {
+ color: #16a085; /* 文字色 */
+ font-weight: bold;
+ font-size: 1.5rem;
+ text-align: center; /* 中央配置 */
+ letter-spacing: 0.5rem; /* 文字間隔を広げる */
+ margin-bottom: 0.5rem; /* 要素外側の下部に 0.5rem の余白 */
+ padding: 0.5rem 0rem; /* 要素内側の上下に 0.5rem、左右に 0rem の余白 */
+ border-top: 3px dashed #16a085; /* 要素境界の上部に破線 */
+ border-bottom: 3px dashed #16a085; /* 要素境界の下部に破線 */
+}
