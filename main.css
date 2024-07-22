@@ -4,19 +4,6 @@ body { /* スタイル適用先としてbodyタグを指定するセレクタ */
  padding: 0px 10px; /* 画面の上下に 0px の余白、左右に10pxの余白を設定 */
 }
 
-@keyframes move{
-  0% {
-    background-size:100% auto;
-  }
-  50% {
-    background-size:140% auto;
-  }
-  100% {
-    background-size:100% auto;
-  }
-}
-
-
 h1 {
  color: #fff; /* テキストの色を白に設定 */
  background-color: #ff7043; /* 背景色をオレンジに設定 */
