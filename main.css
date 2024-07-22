@@ -1,5 +1,8 @@
 html {
  background-color:#fffaf0;
+ font-family: "M PLUS 1p", sans-serif;
+ font-weight: 400;
+ font-style: normal;
 }
 
 body { /* スタイル適用先としてbodyタグを指定するセレクタ */
