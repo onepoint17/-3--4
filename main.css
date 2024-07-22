@@ -1,5 +1,5 @@
 html {
- background-color:#a0d8ef;
+ background-color:#fffaf0;
  font-family: "M PLUS 1p", sans-serif;
  font-weight: 400;
  font-style: normal;
@@ -13,7 +13,7 @@ body { /* スタイル適用先としてbodyタグを指定するセレクタ */
 
 h1 {
  color: #fff; /* テキストの色を白に設定 */
- background-color: #ff7043; /* 背景色をオレンジに設定 */
+ background-color: #a0d8ef; /* 背景色をオレンジに設定 */
  font-family: "Georgia", serif; /* フォントをGeorgiaに設定。Georgiaがない場合はserifを使用 */
  font-size: 2.5rem; /* フォントサイズを2.5remに設定 */
  text-align: center; /* テキストを中央揃えにする */
